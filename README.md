@@ -52,6 +52,6 @@ Hit run.bat and off you go!
 #### All other OS's way.
 Open up a terminal window in the directory and you can use either of the following commands
 `npm start`
-- or -
+or
 `node index.js`
 Both will achieve the same thing.
