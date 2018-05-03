@@ -1,0 +1,25 @@
+{
+  "name": "arch-avatar",
+  "version": "1.0.0",
+  "description": "Sets discord avatar to latest @Archillect tweet every 10mins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your mums house"
+  },
+  "keywords": [
+    "twitter",
+    "discord",
+    "archillect"
+  ],
+  "author": "jakuski#0001",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "twitter": "^1.7.1"
+  }
+}
