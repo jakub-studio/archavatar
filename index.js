@@ -50,5 +50,5 @@ function main() {
 }
 
 main();
-dclient.on("ready", () => log("Logged into Discord User:"+dclient.user.tag));
+dclient.on("ready", () => log("Logged into Discord User:"+dclient.user.tag+"\n Note: The intial avatar change will take place after 10mins."));
 dclient.login(cfg.discord_token);
